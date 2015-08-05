@@ -13,7 +13,8 @@
   - how to setup key-based ssh authentication?
   - how to run a task every minute of every hour?
   - how to see if a file's contents have been changed?
-  - how to change the max number of open files for a user?
+  - how to see the max number of open files for a user?
+    - how to change it?
 
 
 ### Chef:
