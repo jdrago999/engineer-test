@@ -18,7 +18,7 @@
 
 
 ### Chef:
-  - what's the difference between a Berksfile and a Cheffile?
+  - what's the relationship between a Berksfile and a Cheffile?
   - what happens when I run 'kitchen test -d never'?
   - make a chef cookbook to install nginx and add a virtual host to serve files from dir "/var/www/hello/"
   - how to test?
