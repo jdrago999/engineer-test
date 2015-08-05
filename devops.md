@@ -43,7 +43,7 @@
   - problems you've run into while administering, setting up, upgrading, etc?
 
 
-AWS:
+### AWS:
   - describe the relationship between a VPC, security group, subnet, network interface, EC2 instance?
   - what's the difference between a region and an availability zone?
   - how does autoscaling work?
@@ -60,7 +60,9 @@ AWS:
   - how would you make another one just like it?
 
 
-
-
-
+### Monitoring:
+  - What are some common monitoring software options?
+    - Which do you have experience with?
+    - Which do you prefer?  Why?
+    - How to install it?  How to configure it?
 
