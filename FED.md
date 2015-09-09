@@ -3,7 +3,7 @@
 
 ## Questions:
 
-## Using JSFiddle.net and Mocky.io:
+## Using Codepen.io and Mocky.io:
 
 * Make 4 buttons:
   1. Dark Red - "Button 1"
